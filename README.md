@@ -1,0 +1,2 @@
+# pagination
+Component - VueHub Pagination
